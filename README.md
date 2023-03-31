@@ -1,5 +1,5 @@
 ![Aditya Vikram Singh Banner](https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Mohammed%20Tanvir%20Pirjada%20Banner.jpg)
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Full Stack Developer <img src="http://keepcoding.io/" width="30"> from India.
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Mohammedtanvir</h2>
 
