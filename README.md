@@ -14,7 +14,7 @@
 ✉️ &nbsp;You can shoot me an email at tanvirpirjada92@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1rshXVVrbhXUK1x1MHNAEt0ijbP9v252y/view?usp=sharing) for more details about me.
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+<img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="500" align="right">
 
 ### 🛠 &nbsp;Tech Stack
 
