@@ -30,6 +30,10 @@
   
 ![Tanvir's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tanvirpirjada&show_icons=true&theme=tokyonight)
   
+ 
+   <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=tokyonight" />
+
+  
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tanvirpirjada&layout=compact&langs_count=8&theme=tokyonight"/>
 </a>
 </p>
