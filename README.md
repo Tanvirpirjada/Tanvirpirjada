@@ -10,19 +10,19 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently Studying full stack web development on Geekster is a great way to gain skills in front-end and back-end web development.\
 🌱 &nbsp;I'm on track for learning more about Web Development, Systems Design, and Database.\
-✍️ &nbsp;In my free time, I pursue Watching Anime and play football as hobbies/side hustles.\
+✍️ &nbsp;In my free time, I love to watch Anime and play football as hobbies.\
 ✉️ &nbsp;You can shoot me an email at tanvirpirjada92@gmail.com! I'll try to respond as soon as I can.\
 📄 &nbsp;Please have a look at my [Résumé](https://drive.google.com/file/d/1rshXVVrbhXUK1x1MHNAEt0ijbP9v252y/view?usp=sharing) for more details about me.
 
-<img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="500" align="right">
+<img src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="300" align="right">
 
 ### 🛠 &nbsp;Tech Stack
 
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=java,git)](https://skillicons.dev)
 
+[![My Skills](https://skillicons.dev/icons?i=github,vscode)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=mysql,maven)](https://skillicons.dev)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
